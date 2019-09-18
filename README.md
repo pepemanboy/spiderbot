@@ -1,4 +1,4 @@
-#Spiderbot Line Follower Robot
+# Spiderbot Line Follower Robot
 
 This repo hosts the code and electronics for my line following robot Spider Bot.
 Spiderbot was developed in 2016, and competed in the international line following robots competition Robochallenge, hosted in Romania.
